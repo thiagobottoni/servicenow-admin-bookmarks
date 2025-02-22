@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-10-18 18:09:12">
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>home</icon>
+<image>images/icons/home_16.gif</image>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>1</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-22 15:02:08</sys_created_on>
+<sys_id>25d37b96db4d4610649fb11ba39619d5</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-19 18:34:56</sys_updated_on>
+<title>Home</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>home.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>tree</icon>
+<image/>
+<module display_value="Flow Designer ➚">6b74c6e5672222006cc275f557415a3c</module>
+<open_in_form>false</open_in_form>
+<order>2</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-27 21:14:37</sys_created_on>
+<sys_id>e209328cdb158250649fb11ba39619dd</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-04-15 17:54:14</sys_updated_on>
+<title>Flow Designer ➚</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/$flow-designer.do?sysparm_nostack=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name>flowdesigner</window_name>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>console</icon>
+<image/>
+<module display_value="App Engine Studio ➚">cfc1242453130010b846ddeeff7b12fc</module>
+<open_in_form>false</open_in_form>
+<order>3</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-22 15:20:35</sys_created_on>
+<sys_id>f7087f9edb4d4610649fb11ba396190a</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-03-27 21:15:49</sys_updated_on>
+<title>App Engine Studio ➚</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/now/appenginestudio</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name>App Engine Studio Window</window_name>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>cards</icon>
+<image/>
+<module display_value="Studio">bb0c4ba0c3120200ca27ff9c02d3ae7e</module>
+<open_in_form>false</open_in_form>
+<order>4</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-22 15:20:41</sys_created_on>
+<sys_id>4118bb9edb4d4610649fb11ba39619e2</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-05-08 16:09:02</sys_updated_on>
+<title>Studio ➚</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/$studio.do?sysparm_transaction_scope=global&amp;sysparm_nostack=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name>_blank</window_name>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>power</icon>
+<image/>
+<module display_value="REST API Explorer">02b5d8b0470031004695d7527c9a71b5</module>
+<open_in_form>false</open_in_form>
+<order>5</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-22 21:02:48</sys_created_on>
+<sys_id>a466c1eedb858610649fb11ba3961918</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>REST API Explorer</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$restapi.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Admin">f858fb5edb4d4610649fb11ba39619a3</group>
+<icon>cards</icon>
+<image/>
+<module display_value="All">f23fd36373b31300fdeda4038bf6a7a5</module>
+<open_in_form>false</open_in_form>
+<order>7</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-04-02 21:00:12</sys_created_on>
+<sys_id>314f65c2db558210649fb11ba39619b0</sys_id>
+<sys_mod_count>10</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>All Available Applications</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/now/app-manager/home/</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Admin">f858fb5edb4d4610649fb11ba39619a3</group>
+<icon>tab</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>8</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-16 21:42:28</sys_created_on>
+<sys_id>34e7a63b3b1fce50052e359aa4e45a7f</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>All Plugins</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>v_plugin_list.do?sysparm_clear_stack=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Admin">f858fb5edb4d4610649fb11ba39619a3</group>
+<icon>console</icon>
+<image/>
+<module display_value="My Company Applications">8c021ad2d70221004a1dcdcf6e6103f9</module>
+<open_in_form>false</open_in_form>
+<order>9</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 18:46:07</sys_created_on>
+<sys_id>74d9e229874a4210dbcb32230cbb3503</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>My Company Applications</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$mycompanyappsmgmt.do?</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Admin">f858fb5edb4d4610649fb11ba39619a3</group>
+<icon>cart-full</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>10</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-06-20 13:50:33</sys_created_on>
+<sys_id>26820f97fff68650f8d4fadf7c4fd98e</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>Subscription Management</title>
+<ui_type>polaris</ui_type>
+<uncancelable>false</uncancelable>
+<url>now/subscription/home/params/sm/subscriptions</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>catalog</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>12</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 18:49:31</sys_created_on>
+<sys_id>729a22a9874a4210dbcb32230cbb358e</sys_id>
+<sys_mod_count>20</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>stats.do</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>stats.do?sys_id=-1&amp;sysparm_clear_stack=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>trash</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>13</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 18:49:04</sys_created_on>
+<sys_id>9c8a2e69874a4210dbcb32230cbb35db</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>cache.do</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>cache.do?sys_id=-1&amp;sysparm_clear_stack=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>hr</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>14</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-04-15 17:58:36</sys_created_on>
+<sys_id>986244161b65021081beda45fa4bcbbf</sys_id>
+<sys_mod_count>17</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>Export Favorites</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_ui_bookmark_list.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>folder</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>15</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 22:25:47</sys_created_on>
+<sys_id>261cd3ed3b46069021f2ba8aa4e45a20</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>Export Bookmark Groups</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_ui_bookmark_group_list.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>add</icon>
+<image/>
+<module display_value="Request Clone">cd7e5cff370120004f6a80f7bcbe5d9f</module>
+<open_in_form>false</open_in_form>
+<order>16</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-06-27 19:04:10</sys_created_on>
+<sys_id>787d84fdffc7c610f8d4fadf7c4fd9f1</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>Request Clone</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>clone_instance.do?sys_id=-1&amp;sysparm_stack=clone_instance_list.do&amp;sysparm_view=clone_request</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>database</icon>
+<image/>
+<module display_value="Clone History">2b9bad610a0006ef69c921c2044b2c53</module>
+<open_in_form>false</open_in_form>
+<order>17</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-06-27 19:04:21</sys_created_on>
+<sys_id>a37d0c31ff0bc610f8d4fadf7c4fd9f8</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>Clone History</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>clone_instance_list.do?sysparm_userpref_module=2b9bad610a0006ef69c921c2044b2c53&amp;sysparm_query=state%21%3DDraft%5EEQ&amp;&amp;sysparm_order=sys_created_on&amp;sysparm_order_direction=desc</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>label</icon>
+<image/>
+<module display_value="Local Update Sets">50047c06c0a8016c0135a14cebc8191b</module>
+<open_in_form>false</open_in_form>
+<order>18</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-22 11:09:13</sys_created_on>
+<sys_id>577057e53b63c610052e359aa4e45a74</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:10:21</sys_updated_on>
+<title>Update Sets</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_update_set_list.do?sysparm_userpref_module=50047c06c0a8016c0135a14cebc8191b</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>drawer</icon>
+<image/>
+<module display_value="Update Sources">bf0212ab0a0a0b5000c92026108bb6c0</module>
+<open_in_form>false</open_in_form>
+<order>19</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-22 11:20:58</sys_created_on>
+<sys_id>5f2353693b63c610052e359aa4e45a58</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:21:42</sys_updated_on>
+<title>Update Sources</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_update_set_source_list.do?sysparm_userpref_module=bf0212ab0a0a0b5000c92026108bb6c0</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Tools">4ba272a9878a4210dbcb32230cbb35a4</group>
+<icon>check-circle</icon>
+<image/>
+<module display_value="Retrieved Update Sets">bf1184a10a0a0b5000d8f781992a9b5e</module>
+<open_in_form>false</open_in_form>
+<order>20</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-22 11:14:19</sys_created_on>
+<sys_id>f9a1db693b63c610052e359aa4e45a4f</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:21:42</sys_updated_on>
+<title>Retrieved Update Sets</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_remote_update_set_list.do?sysparm_userpref_module=bf1184a10a0a0b5000d8f781992a9b5e&amp;sysparm_fixed_query=sys_class_name=sys_remote_update_set</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="System Properties">1ebb9cf9ff4bc610f8d4fadf7c4fd919</group>
+<icon>home</icon>
+<image/>
+<module display_value="My Company">f66994f8c611227b0131ebb3d413d309</module>
+<open_in_form>false</open_in_form>
+<order>22</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-06-27 20:05:11</sys_created_on>
+<sys_id>6e6bd8b9ff4bc610f8d4fadf7c4fd9b1</sys_id>
+<sys_mod_count>17</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:21:42</sys_updated_on>
+<title>My Company</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>core_company.do?sysparm_stack=core_company_list.do&amp;sysparm_view=my_company&amp;sysparm_query=primary%3Dtrue%5EEQ&amp;primary=true&amp;sysparm_stack=home.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="System Properties">1ebb9cf9ff4bc610f8d4fadf7c4fd919</group>
+<icon>console</icon>
+<image/>
+<module display_value="UI Properties">a23c202e7f0000010091fa78a38668c0</module>
+<open_in_form>false</open_in_form>
+<order>23</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-06-27 20:05:05</sys_created_on>
+<sys_id>016bdcb9ff4bc610f8d4fadf7c4fd9a0</sys_id>
+<sys_mod_count>16</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:21:42</sys_updated_on>
+<title>UI Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=User%20Interface%20Properties&amp;sysparm_category=UI</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="System Properties">1ebb9cf9ff4bc610f8d4fadf7c4fd919</group>
+<icon>view</icon>
+<image/>
+<module display_value="System">85d58404c611227a0148ccb86c500e1e</module>
+<open_in_form>false</open_in_form>
+<order>24</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-06-27 20:05:19</sys_created_on>
+<sys_id>647b54f9ff4bc610f8d4fadf7c4fd9a4</sys_id>
+<sys_mod_count>16</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:21:42</sys_updated_on>
+<title>System</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=System%20Properties&amp;sysparm_category=System</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="System Properties">1ebb9cf9ff4bc610f8d4fadf7c4fd919</group>
+<icon>cog</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>25</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-06-27 20:05:45</sys_created_on>
+<sys_id>b68b50f9ff4bc610f8d4fadf7c4fd972</sys_id>
+<sys_mod_count>16</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:21:42</sys_updated_on>
+<title>All System Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_properties_list.do?sysparm_clear_stack=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>check-circle</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>27</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-08-13 02:53:29</sys_created_on>
+<sys_id>4c0232a43bc0da10052e359aa4e45aa1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-08-13 02:54:19</sys_updated_on>
+<title>ITSM Guided Setup</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$guided_setup.do#/content/01c6e55c25513200964f48ca4b89e87a?focus=&amp;group_focuses=&amp;home_options=intro&amp;scroll_to=&amp;filter=all</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>tab</icon>
+<image/>
+<module display_value="Application Menus">c8164b8dc0a80166014f5a31a3471ba7</module>
+<open_in_form>false</open_in_form>
+<order>28</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 14:40:51</sys_created_on>
+<sys_id>22f05608fb2b0290e2b6f0386eefdc05</sys_id>
+<sys_mod_count>16</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-08-13 02:54:19</sys_updated_on>
+<title>Application Menus</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_app_application_list.do?sysparm_userpref_module=c8164b8dc0a80166014f5a31a3471ba7&amp;sysparm_query=active%3Dtrue%5Edevice_type%21%3Dmobile%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>list</icon>
+<image/>
+<module display_value="Tables">7e7ca89ac0a8000901594ba32f405461</module>
+<open_in_form>false</open_in_form>
+<order>29</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 14:41:07</sys_created_on>
+<sys_id>56011648fb2b0290e2b6f0386eefdcbf</sys_id>
+<sys_mod_count>15</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-08-13 02:54:19</sys_updated_on>
+<title>Tables</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_db_object_list.do?sysparm_userpref_module=7e7ca89ac0a8000901594ba32f405461&amp;sysparm_query=sys_update_nameISNOTEMPTY%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>book</icon>
+<image/>
+<module display_value="Dictionary">cfc104b2c0a8016601e3c2c6d535d790</module>
+<open_in_form>false</open_in_form>
+<order>30</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 19:43:32</sys_created_on>
+<sys_id>98465784fb234290e2b6f0386eefdc9c</sys_id>
+<sys_mod_count>13</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-08-13 02:54:19</sys_updated_on>
+<title>Dictionary</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_dictionary_list.do?sysparm_userpref_module=cfc104b2c0a8016601e3c2c6d535d790</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>tree-right</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>31</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 00:20:56</sys_created_on>
+<sys_id>08c5185cfbe74290e2b6f0386eefdc26</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-08-13 02:54:19</sys_updated_on>
+<title>Many to Many Definitions</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_m2m_list.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>cog</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>32</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 23:53:13</sys_created_on>
+<sys_id>bd6f8c10fbe74290e2b6f0386eefdc08</sys_id>
+<sys_mod_count>13</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-08-13 02:54:19</sys_updated_on>
+<title>Number Maintenance</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_number_list.do?sysparm_query=&amp;sysparm_first_row=1&amp;sysparm_view=&amp;sysparm_choice_query_raw=&amp;sysparm_list_header_search=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>database</icon>
+<image/>
+<module display_value="Database Views">b93a6f470a0a0b79003c94c2bd919fbf</module>
+<open_in_form>false</open_in_form>
+<order>33</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 00:30:20</sys_created_on>
+<sys_id>a5e7985cfbe74290e2b6f0386eefdc3a</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-08-13 02:54:19</sys_updated_on>
+<title>Database Views</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_db_view_list.do?sysparm_userpref_module=b93a6f470a0a0b79003c94c2bd919fbf</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>folder</icon>
+<image/>
+<module display_value="Business Rules">c7ff2086c0a8016601c634b9228ba67a</module>
+<open_in_form>false</open_in_form>
+<order>34</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-10-18 18:02:50</sys_created_on>
+<sys_id>8c1bf90a3bd1d250052e359aa4e45aa0</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Business Rules</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_script_list.do?sysparm_userpref_module=c7ff2086c0a8016601c634b9228ba67a</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Foundation">bb219a48fb2b0290e2b6f0386eefdc25</group>
+<icon>article-document</icon>
+<image/>
+<module display_value="Script Includes">95fbd3b540d59b88007af0fe7bfb61b0</module>
+<open_in_form>false</open_in_form>
+<order>35</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-10-18 18:06:36</sys_created_on>
+<sys_id>9feb758a3bd1d250052e359aa4e45a3c</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Script Includes</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_script_include_list.do?sysparm_userpref_module=95fbd3b540d59b88007af0fe7bfb61b0</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Notifications">06c114e1fb274a10e2b6f0386eefdc70</group>
+<icon>mail</icon>
+<image/>
+<module display_value="Notifications">57c7122e0a00008200e0f94513f2f7ee</module>
+<open_in_form>false</open_in_form>
+<order>37</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:17:15</sys_created_on>
+<sys_id>90129865fb274a10e2b6f0386eefdc99</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Email Notifications</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sysevent_email_action_list.do?sysparm_userpref_module=57c7122e0a00008200e0f94513f2f7ee&amp;sysparm_query=+active%3Dtrue%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Notifications">06c114e1fb274a10e2b6f0386eefdc70</group>
+<icon>book</icon>
+<image/>
+<module display_value="Email Accounts">e204c8e50a0006be005063111a71af0b</module>
+<open_in_form>false</open_in_form>
+<order>38</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:18:19</sys_created_on>
+<sys_id>ff4250a5fb274a10e2b6f0386eefdc40</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Email Accounts</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_email_account_list.do?sysparm_userpref_module=e204c8e50a0006be005063111a71af0b</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Notifications">06c114e1fb274a10e2b6f0386eefdc70</group>
+<icon>article-document</icon>
+<image/>
+<module display_value="Templates">57c829370a0000820032835b11e57b04</module>
+<open_in_form>false</open_in_form>
+<order>39</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:17:24</sys_created_on>
+<sys_id>a6125c65fb274a10e2b6f0386eefdcf0</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Email Templates</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sysevent_email_template_list.do?sysparm_userpref_module=57c829370a0000820032835b11e57b04</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Notifications">06c114e1fb274a10e2b6f0386eefdc70</group>
+<icon>console</icon>
+<image/>
+<module display_value="Layouts">fea9f327eb131200c8690e815206fe41</module>
+<open_in_form>false</open_in_form>
+<order>40</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:17:36</sys_created_on>
+<sys_id>d9225c25fb274a10e2b6f0386eefdc33</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Email Layouts</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_email_layout_list.do?sysparm_userpref_module=fea9f327eb131200c8690e815206fe41</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Notifications">06c114e1fb274a10e2b6f0386eefdc70</group>
+<icon>cog</icon>
+<image/>
+<module display_value="Email Properties">fc4e597aeb110200c8690e815206fe53</module>
+<open_in_form>false</open_in_form>
+<order>41</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:18:49</sys_created_on>
+<sys_id>5362d465fb274a10e2b6f0386eefdc16</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Email Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>email_properties.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Notifications">06c114e1fb274a10e2b6f0386eefdc70</group>
+<icon>mobile</icon>
+<image/>
+<module display_value="Push Notifications">4f06ea53ff2102002841ffffffffff05</module>
+<open_in_form>false</open_in_form>
+<order>42</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:20:17</sys_created_on>
+<sys_id>f0c21ca5fb274a10e2b6f0386eefdc6d</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Push Notifications</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sysevent_email_action_list.do?sysparm_userpref_module=4f06ea53ff2102002841ffffffffff05&amp;sysparm_view=push_notification&amp;sysparm_query=push_message_only%3Dtrue%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>aquamarine</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="CMDB">a07911f0fb6fc210e2b6f0386eefdcaf</group>
+<icon>console</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>44</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 18:51:37</sys_created_on>
+<sys_id>edf310a0fba74210e2b6f0386eefdc63</sys_id>
+<sys_mod_count>15</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>CMDB Workspace</title>
+<ui_type>polaris</ui_type>
+<uncancelable>false</uncancelable>
+<url>now/cmdb/home</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>aquamarine</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="CMDB">a07911f0fb6fc210e2b6f0386eefdcaf</group>
+<icon>label</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>45</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-19 18:16:54</sys_created_on>
+<sys_id>fa955db8fb2fc210e2b6f0386eefdcda</sys_id>
+<sys_mod_count>15</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>CI Class Manager</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$ciModel.do?sysparm_full_theme_support=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>console</icon>
+<image/>
+<module display_value="Portals">7307d93147032100ba13a5554ee490eb</module>
+<open_in_form>false</open_in_form>
+<order>47</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-08-14 11:32:55</sys_created_on>
+<sys_id>fe72f5c53b089e10052e359aa4e45a49</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Service Portals</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sp_portal_list.do?sysparm_userpref_module=7307d93147032100ba13a5554ee490eb</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>cart-full</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>48</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-19 22:58:33</sys_created_on>
+<sys_id>e416d6b8fb270610e2b6f0386eefdcaa</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Catalog Builder</title>
+<ui_type>polaris</ui_type>
+<uncancelable>false</uncancelable>
+<url>now/build/catalog/home</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>cards</icon>
+<image/>
+<module display_value="Maintain Catalogs">14cad751d7330100f2d224837e61037f</module>
+<open_in_form>false</open_in_form>
+<order>49</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:54:40</sys_created_on>
+<sys_id>9ee0b1c1fb238610e2b6f0386eefdc2a</sys_id>
+<sys_mod_count>10</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Maintain Catalogs</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sc_catalog_list.do?sysparm_userpref_module=14cad751d7330100f2d224837e61037f</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>tree</icon>
+<image/>
+<module display_value="Maintain Categories">d12996f1c0a8016501ebe8ec165cfac1</module>
+<open_in_form>false</open_in_form>
+<order>50</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:54:56</sys_created_on>
+<sys_id>46f0bd41fb238610e2b6f0386eefdc72</sys_id>
+<sys_mod_count>10</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Maintain Categories</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sc_category_list.do?sysparm_userpref_module=d12996f1c0a8016501ebe8ec165cfac1&amp;sysparm_view=item</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>label</icon>
+<image/>
+<module display_value="Maintain Items">d420ccf0c611227a006d23ea39bc4207</module>
+<open_in_form>false</open_in_form>
+<order>51</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:58:59</sys_created_on>
+<sys_id>ade1f1c1fb238610e2b6f0386eefdced</sys_id>
+<sys_mod_count>10</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Maintain Items</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sc_cat_item_list.do?sysparm_userpref_module=d420ccf0c611227a006d23ea39bc4207&amp;sysparm_query=type%21%3Dbundle%5Esys_class_name%21%3Dsc_cat_item_guide%5Etype%21%3Dpackage%5Esys_class_name%21%3Dsc_cat_item_content%5Epublished_refISEMPTY%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>new-ticket</icon>
+<image/>
+<module display_value="Record Producers">29a27f350a0a0b2700875332b8d87f6a</module>
+<open_in_form>false</open_in_form>
+<order>52</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:55:09</sys_created_on>
+<sys_id>d101f541fb238610e2b6f0386eefdc2f</sys_id>
+<sys_mod_count>11</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Record Producers</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sc_cat_item_producer_list.do?sysparm_userpref_module=29a27f350a0a0b2700875332b8d87f6a&amp;sysparm_query=published_refISEMPTY%5Esys_class_name%21%3Dsc_cat_item_composite_producer%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>hr</icon>
+<image/>
+<module display_value="Order Guides">32ce5bb37f000001019feb946298246d</module>
+<open_in_form>false</open_in_form>
+<order>53</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 15:11:44</sys_created_on>
+<sys_id>c0d4fd09fb238610e2b6f0386eefdcd5</sys_id>
+<sys_mod_count>10</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Order Guides</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sc_cat_item_guide_list.do?sysparm_userpref_module=32ce5bb37f000001019feb946298246d</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>article-document</icon>
+<image/>
+<module display_value="All Variables">f36ecc0fc0a8010a005d7a8a40bd6b16</module>
+<open_in_form>false</open_in_form>
+<order>54</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:55:48</sys_created_on>
+<sys_id>3221b1c1fb238610e2b6f0386eefdc2e</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>All Variables</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>item_option_new_list.do?sysparm_userpref_module=f36ecc0fc0a8010a005d7a8a40bd6b16</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>folder</icon>
+<image/>
+<module display_value="Variable Sets">0086f9270a0a0aa7008307b9cb9952e0</module>
+<open_in_form>false</open_in_form>
+<order>55</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:55:58</sys_created_on>
+<sys_id>91313181fb238610e2b6f0386eefdcc9</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Variable Sets</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>item_option_new_set_list.do?sysparm_userpref_module=0086f9270a0a0aa7008307b9cb9952e0&amp;sysparm_query=sys_class_name%21%3Ditem_option_new_producer_set%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>user-group</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>56</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-25 12:56:34</sys_created_on>
+<sys_id>09d58fa6fbab8250e2b6f0386eefdcde</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>User Criteria</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>user_criteria_list.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>article-document</icon>
+<image/>
+<module display_value="Catalog Client Scripts">2ed772710a0a0a66016e8c9a2a0016f5</module>
+<open_in_form>false</open_in_form>
+<order>57</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-10-18 17:59:56</sys_created_on>
+<sys_id>596af1423bd1d250052e359aa4e45a9a</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Catalog Client Scripts</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>catalog_script_client_list.do?sysparm_userpref_module=2ed772710a0a0a66016e8c9a2a0016f5</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>cog</icon>
+<image/>
+<module display_value="Properties">c3a413a00a0a0b4d00b50f6c57bdb93e</module>
+<open_in_form>false</open_in_form>
+<order>58</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:55:32</sys_created_on>
+<sys_id>071171c1fb238610e2b6f0386eefdcaf</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Service Catalog Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$system_properties_servicecatalog_ui.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Service Catalog">72903181fb238610e2b6f0386eefdcba</group>
+<icon>cog</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>59</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:53:58</sys_created_on>
+<sys_id>7bb0bd41fb238610e2b6f0386eefdc10</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Catalog System Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=Service%20Catalog%20Properties&amp;sysparm_category=Service%20Catalog</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Import &amp; Export">4915439cfb2f0210e2b6f0386eefdc77</group>
+<icon>cog</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>61</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 13:25:16</sys_created_on>
+<sys_id>8d490394fb6f0210e2b6f0386eefdc9e</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Import Export Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$impex_properties.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Import &amp; Export">4915439cfb2f0210e2b6f0386eefdc77</group>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>62</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 13:24:55</sys_created_on>
+<sys_id>44394f94fb6f0210e2b6f0386eefdc45</sys_id>
+<sys_mod_count>20</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Data Sources</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_data_source_list.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Import &amp; Export">4915439cfb2f0210e2b6f0386eefdc77</group>
+<icon>paperclip</icon>
+<image/>
+<module display_value="Load Data">d1bab22bac143c84005ef713c0c7eeef</module>
+<open_in_form>false</open_in_form>
+<order>63</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 13:07:28</sys_created_on>
+<sys_id>dc35035cfb2f0210e2b6f0386eefdc54</sys_id>
+<sys_mod_count>21</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Import Set -&gt; Load Data</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>create_import_set.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Import &amp; Export">4915439cfb2f0210e2b6f0386eefdc77</group>
+<icon>tree-right</icon>
+<image/>
+<module display_value="Transform Maps">d809195a0af04cc8004a7b95a2d4361b</module>
+<open_in_form>false</open_in_form>
+<order>64</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 13:14:35</sys_created_on>
+<sys_id>e0d64790fb6f0210e2b6f0386eefdc84</sys_id>
+<sys_mod_count>20</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Import Set -&gt; Transform Maps</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_transform_map_list.do?sysparm_userpref_module=d809195a0af04cc8004a7b95a2d4361b</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Import &amp; Export">4915439cfb2f0210e2b6f0386eefdc77</group>
+<icon>power</icon>
+<image/>
+<module display_value="Run Transform">d8c9fee2a9fe8f29007e0600682cacc9</module>
+<open_in_form>false</open_in_form>
+<order>65</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 13:18:29</sys_created_on>
+<sys_id>b9b70750fb6f0210e2b6f0386eefdc1b</sys_id>
+<sys_mod_count>20</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Import Set -&gt; Run Transform</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>run_import.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Import &amp; Export">4915439cfb2f0210e2b6f0386eefdc77</group>
+<icon>trash</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>66</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 13:30:27</sys_created_on>
+<sys_id>4d7ac358fb6f0210e2b6f0386eefdc20</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Import Set -&gt; Cleanup</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>cleanup_import_sets.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Import &amp; Export">4915439cfb2f0210e2b6f0386eefdc77</group>
+<icon>calendar</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>67</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 13:29:59</sys_created_on>
+<sys_id>525a4718fb6f0210e2b6f0386eefdc6e</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Import Set Deleter Script</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sysauto_script.do?sysparm_query=name=Import%20Set%20Deleter</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Import &amp; Export">4915439cfb2f0210e2b6f0386eefdc77</group>
+<icon>drawer</icon>
+<image/>
+<module display_value="Create Export Set">de81e6d07fb23100f936dd620efa916a</module>
+<open_in_form>false</open_in_form>
+<order>68</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:04:29</sys_created_on>
+<sys_id>4d2f4cadfbe34a10e2b6f0386eefdc05</sys_id>
+<sys_mod_count>11</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Export Set -&gt; Create New</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>./com.glideapp.servicecatalog_cat_item_view.do?sysparm_id=c568d679471102003db6d7527c9a7129</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>locked</icon>
+<image/>
+<module display_value="Application Registry">eb1b4433d7112100f20bc8170e61037b</module>
+<open_in_form>false</open_in_form>
+<order>70</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 15:19:29</sys_created_on>
+<sys_id>50d95a88fb6b0290e2b6f0386eefdc54</sys_id>
+<sys_mod_count>28</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Application Registry</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>oauth_entity_list.do?sysparm_userpref_module=eb1b4433d7112100f20bc8170e61037b&amp;sysparm_query=type%3Dclient%5EORtype%3Doauth_provider%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>key</icon>
+<image/>
+<module display_value="Credentials">e583162673202300dcae94596bf6a76c</module>
+<open_in_form>false</open_in_form>
+<order>71</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 19:23:58</sys_created_on>
+<sys_id>9772b269878a4210dbcb32230cbb35db</sys_id>
+<sys_mod_count>48</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>iHub Credentials</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>discovery_credentials_list.do?sysparm_userpref_module=e583162673202300dcae94596bf6a76c</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>book-open</icon>
+<image/>
+<module display_value="Connection &amp; Credential Aliases">9453922673202300dcae94596bf6a7bf</module>
+<open_in_form>false</open_in_form>
+<order>72</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 19:24:23</sys_created_on>
+<sys_id>559272a9878a4210dbcb32230cbb3510</sys_id>
+<sys_mod_count>49</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>iHub Connection &amp; Credential Aliases</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_alias_list.do?sysparm_userpref_module=9453922673202300dcae94596bf6a7bf</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>dashboard</icon>
+<image/>
+<module display_value="IntegrationHub Usage">bfa4da2673202300dcae94596bf6a7c0</module>
+<open_in_form>false</open_in_form>
+<order>73</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 14:44:36</sys_created_on>
+<sys_id>368235ad87824210dbcb32230cbb35b5</sys_id>
+<sys_mod_count>34</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>IntegrationHub Usage</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/now/integrationhub-usage-dashboard/ih-usage-dashboard</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>power</icon>
+<image/>
+<module display_value="Rate Limit Rules">1a0bac1c3b120300de4aa2e334efc41b</module>
+<open_in_form>false</open_in_form>
+<order>74</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 22:48:31</sys_created_on>
+<sys_id>c690cc54fb674290e2b6f0386eefdc3e</sys_id>
+<sys_mod_count>26</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>REST API Rate Limit Rules</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_rate_limit_rules_list.do?sysparm_userpref_module=1a0bac1c3b120300de4aa2e334efc41b</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>hr</icon>
+<image/>
+<module display_value="REST Message">f196a40107131000dada43c0d1021e40</module>
+<open_in_form>false</open_in_form>
+<order>75</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-23 16:33:33</sys_created_on>
+<sys_id>374425c63b2f4a10052e359aa4e45af6</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Outbound REST Message</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_rest_message_list.do?sysparm_userpref_module=f196a40107131000dada43c0d1021e40</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>folder</icon>
+<image/>
+<module display_value="Downloads">ccae1a8a0a0a0b71009738a3f857941b</module>
+<open_in_form>false</open_in_form>
+<order>76</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-23 16:37:56</sys_created_on>
+<sys_id>00556d0e3b2f4a10052e359aa4e45ab3</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>MID Server Downloads</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>mid_server_download_ui.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>drawer</icon>
+<image/>
+<module display_value="Servers">8d1807e9c611227d01dc4cd973ddf4ca</module>
+<open_in_form>false</open_in_form>
+<order>77</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-23 16:41:54</sys_created_on>
+<sys_id>d6362d0e3b2f4a10052e359aa4e45ac0</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>MID Servers</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>ecc_agent_list.do?sysparm_userpref_module=8d1807e9c611227d01dc4cd973ddf4ca</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Integration">1ac2f6a9878a4210dbcb32230cbb350b</group>
+<icon>tree</icon>
+<image/>
+<module display_value="Clusters">f57726d90a0006bc5c465262f873a43a</module>
+<open_in_form>false</open_in_form>
+<order>78</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-23 16:44:18</sys_created_on>
+<sys_id>1dc62d0e3b2f4a10052e359aa4e45ab7</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>MID Server Clusters</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>ecc_agent_cluster_list.do?sysparm_userpref_module=f57726d90a0006bc5c465262f873a43a</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>user</icon>
+<image/>
+<module display_value="Users">c5aa0fff0a0a0aa7009a39da035ea396</module>
+<open_in_form>false</open_in_form>
+<order>80</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-22 15:21:13</sys_created_on>
+<sys_id>b038b79edb4d4610649fb11ba39619ea</sys_id>
+<sys_mod_count>36</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Users</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_user_list.do?sysparm_userpref_module=c5aa0fff0a0a0aa7009a39da035ea396</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>user-group</icon>
+<image/>
+<module display_value="Groups">c5aa68730a0a0aa70036ced8b58ca05c</module>
+<open_in_form>false</open_in_form>
+<order>81</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-22 15:21:16</sys_created_on>
+<sys_id>6d38f79edb4d4610649fb11ba3961948</sys_id>
+<sys_mod_count>35</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Groups</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_user_group_list.do?sysparm_userpref_module=c5aa68730a0a0aa70036ced8b58ca05c</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>book-open</icon>
+<image/>
+<module display_value="Roles">c5aa9f180a0a0aa7005bf43bf2b967a5</module>
+<open_in_form>false</open_in_form>
+<order>82</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-22 15:21:20</sys_created_on>
+<sys_id>6a38b3dedb4d4610649fb11ba39619ad</sys_id>
+<sys_mod_count>35</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Roles</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_user_role_list.do?sysparm_userpref_module=c5aa9f180a0a0aa7005bf43bf2b967a5</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>view</icon>
+<image/>
+<module display_value="Metrics">48bcd49843f32110adf71f062bb8f287</module>
+<open_in_form>false</open_in_form>
+<order>83</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-29 14:41:10</sys_created_on>
+<sys_id>592bbdd0ff6646d0f8d4fadf7c4fd93d</sys_id>
+<sys_mod_count>39</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Security Center</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>now/security-center/my_security_metrics</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name>_blank</window_name>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>key</icon>
+<image/>
+<module display_value="IP Address Access Control">882bac0f0a0a0a650021767f55006df0</module>
+<open_in_form>false</open_in_form>
+<order>84</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-29 14:37:07</sys_created_on>
+<sys_id>ca3afd10ff6646d0f8d4fadf7c4fd9f0</sys_id>
+<sys_mod_count>39</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>IP Address Access Control</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>ip_access_list.do?sysparm_userpref_module=882bac0f0a0a0a650021767f55006df0</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>list</icon>
+<image/>
+<module display_value="Logged in users">d2fcdd6fc0a8006f00c9ace573bc9594</module>
+<open_in_form>false</open_in_form>
+<order>85</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-29 14:35:47</sys_created_on>
+<sys_id>6ee9fd10ff6646d0f8d4fadf7c4fd9f3</sys_id>
+<sys_mod_count>40</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Logged in users</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>v_user_session_list.do?sysparm_userpref_module=d2fcdd6fc0a8006f00c9ace573bc9594&amp;sysparm_query=user%21%3Dguest%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>catalog</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>86</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 11:22:10</sys_created_on>
+<sys_id>b91da650fbab0210e2b6f0386eefdc00</sys_id>
+<sys_mod_count>27</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Security Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=Security&amp;sysparm_category=Escaping%20and%20scripting,Attachments,Security%20Manager,Cookies,Client-side%20scripting,Miscellaneous</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>sort-ascending</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>87</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 11:23:41</sys_created_on>
+<sys_id>887d2a50fbab0210e2b6f0386eefdc26</sys_id>
+<sys_mod_count>27</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>High Security Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=High%20Security%20Properties&amp;sysparm_category=High%20Security%20Enabled%20Settings,High%20Security%20Disabled%20Settings</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>locked</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>88</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 11:32:57</sys_created_on>
+<sys_id>b78fea54fbab0210e2b6f0386eefdcfe</sys_id>
+<sys_mod_count>27</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Access Controls (ACL)</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_security_acl_list.do?sysparm_query=nameLIKEu_tb&amp;sysparm_first_row=1&amp;sysparm_view=&amp;sysparm_choice_query_raw=&amp;sysparm_list_header_search=true</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>pink</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Security">b1c29ac8fb2b0290e2b6f0386eefdcd2</group>
+<icon>hr</icon>
+<image/>
+<module display_value="User Trails">247d853beb193110bd1e0c73a252282b</module>
+<open_in_form>false</open_in_form>
+<order>89</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:45:04</sys_created_on>
+<sys_id>73681ca1fb674a10e2b6f0386eefdc39</sys_id>
+<sys_mod_count>11</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>User Trails</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>user_trail_list.do?sysparm_userpref_module=247d853beb193110bd1e0c73a252282b&amp;sysparm_query=sysparm_query%3Dta_source_table%3Dsys_user%5EORta_source_table%3Dsys_user_grmember%5EORta_source_table%3Dsys_user_has_role%5Eusr_sys_idISNOTEMPTY%5EORDERBYDESCta_sys_created_on%5EORDERBYDESCta_internal_checkpoint</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>power</icon>
+<image/>
+<module display_value="Application Insights ➚">c28a3e8e0fc06010e28740c1df767ec1</module>
+<open_in_form>false</open_in_form>
+<order>91</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-14 13:43:08</sys_created_on>
+<sys_id>850ed06fffce4e10f8d4fadf7c4fd98c</sys_id>
+<sys_mod_count>52</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Application Insights ➚</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>./now/application-insights</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name>application-insights</window_name>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>dashboard</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>92</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-04-15 17:41:06</sys_created_on>
+<sys_id>086e734e1be1021081beda45fa4bcbfa</sys_id>
+<sys_mod_count>66</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Performance Dashboard</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$pa_dashboard.do?sysparm_dashboard=8d090efd53513010d185ddeeff7b124e&amp;sysparm_tab=d5098e3153913010d185ddeeff7b1237&amp;sysparm_cancelable=true&amp;sysparm_editable=undefined&amp;sysparm_active_panel=false</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>livefeed</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>93</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 22:23:27</sys_created_on>
+<sys_id>72dabb88fb274290e2b6f0386eefdcfd</sys_id>
+<sys_mod_count>34</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>System Events and Jobs</title>
+<ui_type>polaris</ui_type>
+<uncancelable>false</uncancelable>
+<url>now/event_jobs/dashboard/params/queue/DEFAULT/start/2024-07-17%2010:22:48/end/2024-07-17%2015:22:48</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>catalog</icon>
+<image/>
+<module display_value="All">ab0b7690c0a8016400bdb8598ce01adf</module>
+<open_in_form>false</open_in_form>
+<order>94</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 22:23:54</sys_created_on>
+<sys_id>a1fafbc8fb274290e2b6f0386eefdcdc</sys_id>
+<sys_mod_count>34</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>System Logs</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>syslog_list.do?sysparm_userpref_module=ab0b7690c0a8016400bdb8598ce01adf&amp;sysparm_query=sys_created_onONToday%40javascript:gs.daysAgoStart(0)%40javascript:gs.daysAgoEnd(0)%5EEQ&amp;&amp;sysparm_order=sys_created_on&amp;sysparm_order_direction=desc</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>star-empty</icon>
+<image/>
+<module display_value="Upgrade Log">c0a2e678c0a80a2900d0393913d96714</module>
+<open_in_form>false</open_in_form>
+<order>95</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-22 12:02:24</sys_created_on>
+<sys_id>8aacdf6d3ba3c610052e359aa4e45a37</sys_id>
+<sys_mod_count>8</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Upgrade Log</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>syslog_list.do?sysparm_userpref_module=c0a2e678c0a80a2900d0393913d96714&amp;sysparm_query=sys_created_onONThis+week%40javascript:gs.beginningOfThisWeek()%40javascript:gs.endOfThisWeek()%5Esource%3DUpgrade%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>database</icon>
+<image/>
+<module display_value="Slow Queries">9d967a108f30300072a89cfde0f92389</module>
+<open_in_form>false</open_in_form>
+<order>96</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-22 11:43:42</sys_created_on>
+<sys_id>9068d3253ba3c610052e359aa4e45a13</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Slow Queries</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_query_pattern_list.do?sysparm_userpref_module=9d967a108f30300072a89cfde0f92389&amp;sysparm_query=window_endISEMPTY%5Ewindow_startISEMPTY%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>article-document</icon>
+<image/>
+<module display_value="Slow Scripts">c0667612872231007305fdbee3e3ec03</module>
+<open_in_form>false</open_in_form>
+<order>97</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-22 11:43:50</sys_created_on>
+<sys_id>5668d3253ba3c610052e359aa4e45a47</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Slow Scripts</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_script_pattern_list.do?sysparm_userpref_module=c0667612872231007305fdbee3e3ec03&amp;sysparm_query=window_endISEMPTY%5Ewindow_startISEMPTY%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>mail</icon>
+<image/>
+<module display_value="Slow Transactions">ad763612872231007305fdbee3e3ec3c</module>
+<open_in_form>false</open_in_form>
+<order>98</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-22 11:43:58</sys_created_on>
+<sys_id>5c789f653ba3c610052e359aa4e45ab3</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Slow Transactions</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_transaction_pattern_list.do?sysparm_userpref_module=ad763612872231007305fdbee3e3ec3c&amp;sysparm_query=window_endISEMPTY%5Ewindow_startISEMPTY%5EEQ</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>cog</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>99</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-22 11:43:17</sys_created_on>
+<sys_id>9e48d3253ba3c610052e359aa4e45a26</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>System Diagnostics Properties</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=System%20Diagnostics&amp;sysparm_category=System%20Diagnostics</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>tree</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>100</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-10-18 17:58:25</sys_created_on>
+<sys_id>170ab1c63bd1d250052e359aa4e45af3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>All Active Transactions</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>v_transaction_list.do?sysparm_query=&amp;sysparm_first_row=1&amp;sysparm_view=</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Health &amp; Debug">d3304c121b25021081beda45fa4bcbfe</group>
+<icon>edit</icon>
+<image/>
+<module display_value="Script Log Statements">f774f77b0a0a3c74006c827b1705662e</module>
+<open_in_form>false</open_in_form>
+<order>101</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-10-18 18:03:42</sys_created_on>
+<sys_id>a04b714a3bd1d250052e359aa4e45a44</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Script Log Statements</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>syslog_list.do?sysparm_userpref_module=f774f77b0a0a3c74006c827b1705662e&amp;sysparm_query=sys_created_onONToday%40javascript:gs.daysAgoStart(0)%40javascript:gs.daysAgoEnd(0)%5Esource%3D***+Script%5EEQ&amp;&amp;sysparm_query_category=log&amp;sysparm_order=sys_created_on&amp;sysparm_order_direction=desc</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Insights">033588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>article-document</icon>
+<image/>
+<module display_value="View / Run">1166104fc611227b00bb1bc49f4845f4</module>
+<open_in_form>false</open_in_form>
+<order>103</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:21:41</sys_created_on>
+<sys_id>8e550069ff6f42d0f8d4fadf7c4fd992</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Reports - View / Run</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>report_home.do?jvar_selected_tab=myReports</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Insights">033588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>dashboard</icon>
+<image/>
+<module display_value="Dashboards">b9169d55873212001ac119fa84e3ece3</module>
+<open_in_form>false</open_in_form>
+<order>104</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:22:59</sys_created_on>
+<sys_id>59a50ca9ff6f42d0f8d4fadf7c4fd97e</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Dashboards</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$pa_dashboards_overview.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Analytics">0b3588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>article-document</icon>
+<image/>
+<module display_value="Data Visualizations">d4d801c34dd83110f877856d195aa965</module>
+<open_in_form>false</open_in_form>
+<order>106</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:23:44</sys_created_on>
+<sys_id>50d5c02dff6f42d0f8d4fadf7c4fd9e4</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Data Visualizations/Reports</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/now/platform-analytics-workspace/data-visualization-library</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Analytics">0b3588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>dashboard</icon>
+<image/>
+<module display_value="Dashboards">57a841c34dd83110f877856d195aa981</module>
+<open_in_form>false</open_in_form>
+<order>107</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:23:50</sys_created_on>
+<sys_id>65d5842dff6f42d0f8d4fadf7c4fd91d</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Dashboards</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/now/platform-analytics-workspace/dashboard-library</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Analytics">0b3588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>filter</icon>
+<image/>
+<module display_value="Filters">a60945834dd83110f877856d195aa917</module>
+<open_in_form>false</open_in_form>
+<order>108</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:24:01</sys_created_on>
+<sys_id>d0e588e9ff6f42d0f8d4fadf7c4fd9e7</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Filters</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/now/platform-analytics-workspace/filter-library</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Analytics">0b3588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>check-circle</icon>
+<image/>
+<module display_value="KPIs">98f881834dd83110f877856d195aa945</module>
+<open_in_form>false</open_in_form>
+<order>109</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:24:27</sys_created_on>
+<sys_id>32f544e9ff6f42d0f8d4fadf7c4fd9e9</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>KPIs</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>/now/platform-analytics-workspace/kpi-library</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Analytics">0b3588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>calendar</icon>
+<image/>
+<module display_value="Jobs">dd25aac9e925f110f877eebc1a32885b</module>
+<open_in_form>false</open_in_form>
+<order>110</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:49:53</sys_created_on>
+<sys_id>53cb4069fbe34a10e2b6f0386eefdca9</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Data Collector Jobs</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sysauto_pa_list.do?sysparm_query=run_type!%3Donce%5EORDERBYrun_time</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Analytics">0b3588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>list</icon>
+<image/>
+<module display_value="Table Sources">637d71cde961f110f877eebc1a32884f</module>
+<open_in_form>false</open_in_form>
+<order>111</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:50:45</sys_created_on>
+<sys_id>3bfb4869fbe34a10e2b6f0386eefdce7</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Table Sources</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>sys_report_source_list.do?sysparm_userpref_module=637d71cde961f110f877eebc1a32884f</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Analytics">0b3588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>cards</icon>
+<image/>
+<module display_value="Widgets">40c66e4de925f110f877eebc1a328800</module>
+<open_in_form>false</open_in_form>
+<order>112</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:51:35</sys_created_on>
+<sys_id>983c4c69fbe34a10e2b6f0386eefdc74</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Widgets</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>pa_widgets_list.do?sysparm_userpref_module=40c66e4de925f110f877eebc1a328800</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>fuschia</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="Platform Analytics">0b3588a9ff6f42d0f8d4fadf7c4fd9d6</group>
+<icon>cog</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>113</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:27:03</sys_created_on>
+<sys_id>b09680adff6f42d0f8d4fadf7c4fd90e</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Admin Console</title>
+<ui_type/>
+<uncancelable>false</uncancelable>
+<url>$analytics_admin_console.do</url>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+<window_name/>
+</sys_ui_bookmark>
+</unload>
