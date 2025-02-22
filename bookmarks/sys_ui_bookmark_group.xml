@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-10-18 18:09:32">
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>blue</color>
+<order>6</order>
+<parent_group display_value=""/>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-03-22 15:21:45</sys_created_on>
+<sys_id>f858fb5edb4d4610649fb11ba39619a3</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>Platform Admin</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>blue</color>
+<order>11</order>
+<parent_group display_value="Platform Admin">f858fb5edb4d4610649fb11ba39619a3</parent_group>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 19:24:46</sys_created_on>
+<sys_id>4ba272a9878a4210dbcb32230cbb35a4</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-20 14:53:43</sys_updated_on>
+<title>Tools</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>blue</color>
+<order>21</order>
+<parent_group display_value="Platform Admin">f858fb5edb4d4610649fb11ba39619a3</parent_group>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-06-27 20:06:32</sys_created_on>
+<sys_id>1ebb9cf9ff4bc610f8d4fadf7c4fd919</sys_id>
+<sys_mod_count>16</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:21:42</sys_updated_on>
+<title>System Properties</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>blue</color>
+<order>26</order>
+<parent_group display_value="Platform Admin">f858fb5edb4d4610649fb11ba39619a3</parent_group>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 14:41:46</sys_created_on>
+<sys_id>bb219a48fb2b0290e2b6f0386eefdc25</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-07-22 11:21:42</sys_updated_on>
+<title>Foundation</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>blue</color>
+<order>36</order>
+<parent_group display_value="Platform Admin">f858fb5edb4d4610649fb11ba39619a3</parent_group>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 21:16:00</sys_created_on>
+<sys_id>06c114e1fb274a10e2b6f0386eefdc70</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Notifications</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>aquamarine</color>
+<order>43</order>
+<parent_group display_value=""/>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-19 18:33:40</sys_created_on>
+<sys_id>a07911f0fb6fc210e2b6f0386eefdcaf</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>CMDB</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>purple</color>
+<order>46</order>
+<parent_group display_value=""/>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-20 14:53:20</sys_created_on>
+<sys_id>72903181fb238610e2b6f0386eefdcba</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Service Catalog</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>yellow</color>
+<order>60</order>
+<parent_group display_value=""/>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-18 13:06:57</sys_created_on>
+<sys_id>4915439cfb2f0210e2b6f0386eefdc77</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Import &amp; Export</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>orange</color>
+<order>69</order>
+<parent_group display_value=""/>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-05-08 19:25:16</sys_created_on>
+<sys_id>1ac2f6a9878a4210dbcb32230cbb350b</sys_id>
+<sys_mod_count>44</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Integration</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>pink</color>
+<order>79</order>
+<parent_group display_value=""/>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-17 14:48:43</sys_created_on>
+<sys_id>b1c29ac8fb2b0290e2b6f0386eefdcd2</sys_id>
+<sys_mod_count>36</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Security</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>purple</color>
+<order>90</order>
+<parent_group display_value=""/>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-04-15 17:49:14</sys_created_on>
+<sys_id>d3304c121b25021081beda45fa4bcbfe</sys_id>
+<sys_mod_count>62</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:33</sys_updated_on>
+<title>Platform Health &amp; Debug</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>fuschia</color>
+<order>102</order>
+<parent_group display_value=""/>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:21:11</sys_created_on>
+<sys_id>033588a9ff6f42d0f8d4fadf7c4fd9d6</sys_id>
+<sys_mod_count>17</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Insights</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+<sys_ui_bookmark_group action="INSERT_OR_UPDATE">
+<application display_value=""/>
+<color>fuschia</color>
+<order>105</order>
+<parent_group display_value="Insights">033588a9ff6f42d0f8d4fadf7c4fd9d6</parent_group>
+<sys_created_by>thiago</sys_created_by>
+<sys_created_on>2024-07-21 20:21:11</sys_created_on>
+<sys_id>0b3588a9ff6f42d0f8d4fadf7c4fd9d6</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>thiago</sys_updated_by>
+<sys_updated_on>2024-10-18 18:08:34</sys_updated_on>
+<title>Platform Analytics</title>
+<user display_value="Thiago Bottoni">3df41fed3b06069021f2ba8aa4e45a76</user>
+</sys_ui_bookmark_group>
+</unload>
