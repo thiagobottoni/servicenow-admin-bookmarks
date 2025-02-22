@@ -16,3 +16,7 @@ Note #1: You may need to log out or refresh the page and wait a couple of minute
 Note #2: If you already have bookmarks, back them up before importing these XML files.
 
 Note #3: Try it in DEV first (obviously!).
+
+## Preview (cropped)
+
+<img src="https://github.com/user-attachments/assets/3742c445-c1fd-4381-a866-539982d1a516" />
