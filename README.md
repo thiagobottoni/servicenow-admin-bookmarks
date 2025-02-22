@@ -11,4 +11,8 @@ A curated collection of essential bookmarks for ServiceNow platform administrato
 7. Upload the file named sys_ui_bookmark_group.xml
 8. Filter the User field by "Thiago Bottoni" and replace it with your user name
 
-Note: You may need to log out or refresh the page and wait a couple of minutes for the import to be applied.
+Note #1: You may need to log out or refresh the page and wait a couple of minutes for the import to be applied.
+
+Note #2: If you already have bookmarks, back them up before importing these XML files.
+
+Note #3: Try it in DEV first (obviously!).
